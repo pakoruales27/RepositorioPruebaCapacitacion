@@ -1,6 +1,9 @@
 # RepositorioPruebaCapacitacion
 Este repositorio servirá de pruebas para ejemplos en la capacitación
 
+# Feature Andres
+Se agrega el archivo feature.txt para simular un nuevo archivo y se modifica el README.md
+
 ## 📋 Descripción General
 
 **BlazorApp** es una aplicación web interactiva desarrollada con **Blazor Server** (.NET 10.0) que sirve como plataforma de aprendizaje y capacitación para desarrolladores. La aplicación implementa componentes interactivos del lado del servidor con una interfaz moderna y responsiva.
